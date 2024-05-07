@@ -1,0 +1,8 @@
+print("Aula de ds")
+a = 2
+if a < 5:
+   print("Versionamento de códigos")
+else:
+  if a > 6:
+     print("Dessensolvimento de sistemas")
+print("FIM")
